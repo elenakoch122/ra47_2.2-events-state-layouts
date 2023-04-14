@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lv35o6jihxc2e8ig?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-2-2-events-state-layouts)
+
+GitHub Pages: https://elenakoch122.github.io/ra47_2.2-events-state-layouts
+
 Расположение товаров
 ===
 
